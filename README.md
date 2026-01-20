@@ -1,7 +1,7 @@
 # Assignment 03 (Individual) – GAMES DEVELOPMENT
 
 **SE4031 – Games Development**  
-**Title – Immersive VR Psychological Survival Experience**  
+**Title – Immersive VR Psychological Survival Experience - Infected Zone**  
 **Assignment Created By:** Mr. Aruna Ishara Gamage, Mr. Nushkan Nismi  
 **End Digit:** 0  
 **Assignment Weight:** 30%
